@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Saad
 
-<!--
-**devsaad780/devsaad780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer  
+📍 Lahore, Pakistan  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a Full Stack Web Developer specializing in building scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+
+## 📂 Projects
+- JobOpening React App
+- Drum Kit App
+- Dice Game
+
+## 📫 Contact Me
+Email: your-email@gmail.com  
+LinkedIn: https://linkedin.com
