@@ -16,10 +16,10 @@ I am a Full Stack Web Developer specializing in building scalable web applicatio
 - PostgreSQL
 
 ## 📂 Projects
-- JobOpening React App
-- Drum Kit App
+- law Help Associates Websites
+- Portfolio 
 - Dice Game
 
 ## 📫 Contact Me
-Email: your-email@gmail.com  
-LinkedIn: https://linkedin.com
+Email: sheikhsaad780@gmail.com
+LinkedIn: https://www.linkedin.com/in/muhammad-saad-5a772a323/
