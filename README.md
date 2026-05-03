@@ -7,10 +7,10 @@
 I am a Full Stack Web Developer specializing in building scalable web applications using modern technologies.
 
 ## 🛠 Tech Stack
-- HTML
+- React
 - CSS
 - JavaScript
-- React
+- Tailwind
 - Node.js
 - Express
 - PostgreSQL
